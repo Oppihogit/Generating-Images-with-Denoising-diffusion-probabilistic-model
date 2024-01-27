@@ -11,5 +11,5 @@
 ![alt text](samples.png)
 
   
-## Select Samples
+## Selected samples
 ![alt text](select_samples.png)
