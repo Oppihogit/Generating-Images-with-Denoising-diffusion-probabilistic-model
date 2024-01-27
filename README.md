@@ -7,9 +7,9 @@
 ![alt text](ddpm.png)
 
   
-## 2.Results
+## Results
 ![alt text](samples.png)
 
   
-## 3.Interaction-with-data
+## Select Samples
 ![alt text](select_samples.png)
